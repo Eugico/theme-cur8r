@@ -1,0 +1,3 @@
+<?php
+// WTF is going on?
+?>
